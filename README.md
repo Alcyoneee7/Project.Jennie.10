@@ -1,0 +1,2 @@
+# Project.Jennie.10
+MAKING OWN DATASET AND ANALYZE IT 
